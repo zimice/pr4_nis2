@@ -39,3 +39,14 @@ bezpečnosti.
 
 
 
+AI response na semestralku
+
+Úvod - Představení tématu, významu a cíle práce.
+
+Pozadí - Detailní popis historie a vývoje směrnice NIS2. Jaké byly hlavní změny oproti NIS1?
+
+Právní aspekty NIS2 - Podrobný rozbor právních aspektů směrnice, včetně definic subjektů a povinností.
+
+NIS2 a zdravotnictví - Specifické aspekty směrnice týkající se zdravotnictví. Jaký je dopad na různé složky zdravotnictví?
+
+Případové studie - Detailní analýza několika případových studií, jak směrnice ovlivnila zdravotnictví. Tyto případové studie by mohly pokrýt širokou šk
