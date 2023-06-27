@@ -8,15 +8,15 @@ NIS2 začne platit od roku 2024 a výrazně zasáhne do oblast IT bezpečnosti.
 
 ## Úkoly
 
-- [ ] Načíst NIS2
-- [ ] Načíst novou pracovní verzi ZoKB
-- [ ] Zpracovat změny KB ve zdravotních zařízeních, podle nového zákonu.
-- [ ] Zjistit nové změny NIS2 na KB
+- [X] Načíst NIS2
+- [X] Načíst novou pracovní verzi ZoKB
+- [X] Zpracovat změny KB ve zdravotních zařízeních, podle nového zákonu.
+- [X] Zjistit nové změny NIS2 na KB
 
 ## Obsah projektu
 
-- [Prezentace bude přednesena xx.xx.xxxx](kochanek_nis2_prezentace.potx)
-- [Pisemna prace bude odevzdana xx.xx.xxxx](kochanek_nis2_pisemnacast.docx)
+- [Prezentace bude přednesena 27.06.2023](kochanek_nis2_prezentace.potx)
+- [Pisemna prace bude odevzdana 13.06.2023](kochanek_nis2_pisemnacast.docx)
 
 ## Seznam odborné literatury
 
@@ -25,3 +25,6 @@ NIS2 začne platit od roku 2024 a výrazně zasáhne do oblast IT bezpečnosti.
 3. [NIS2: Nová regulace kybernetické bezpečnosti v EU epravo.cz](https://www.epravo.cz/top/clanky/nis2-nova-regulace-kyberneticke-bezpecnosti-veu-115691.html)
 4. [Virtuální konference "Směrnice NIS 2: Procesy a technologie" nis2.tech](https://nis2.tech/)
 
+### Závěr
+
+Tento projekt mě stál docela dost úsilí, abych byl na prezentaci obviněn z toho, že tam není tabulka ve které by to bylo shrnuto. Práce je velmi řešeršního charakteru, a jelikož tomu programátoři vysocí pánové z Albertova nerozumí, a neví jaké zákony dodržovat, tak se chytají stébla. Celkově mi mohou políbit, ale to je pouze jejich neznalostí a nedostatkem nadhledu. Projekt se za mě povedl a dal mi dost velkou příležitost se naučit a získat výhodu nad svou konkurencí.
