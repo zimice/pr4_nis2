@@ -15,7 +15,7 @@ NIS2 začne platit od roku 2024 a výrazně zasáhne do oblast IT bezpečnosti.
 
 ## Obsah projektu
 
-- [Prezentace bude přednesena 27.06.2023](kochanek_nis2_prezentace.potx)
+- [Prezentace bude přednesena 27.06.2023](kochanek_nis2_prezentace.pptx)
 - [Pisemna prace bude odevzdana 13.06.2023](kochanek_nis2_pisemnacast.docx)
 
 ## Seznam odborné literatury
